@@ -270,10 +270,28 @@ BSc Cyber Security & Digital Forensics
 UWE Bristol × The British College  
 Kathmandu, Nepal
 
+
+
 🔐 SOC Analyst Learner | Active Directory Security | Threat Detection | Red Team Labs
 
 ---
 
+<img width="657" height="507" alt="1" src="https://github.com/user-attachments/assets/13e235b8-df25-412d-bfae-7d77a7f1c3fd" />
+
+<img width="1031" height="91" alt="3" src="https://github.com/user-attachments/assets/0720cede-6b06-49c7-baf9-5af7a6696d26" />
+
+<img width="1021" height="392" alt="4" src="https://github.com/user-attachments/assets/b4545666-71c7-445d-a784-190363828c9f" />
+
+<img width="988" height="601" alt="12" src="https://github.com/user-attachments/assets/5d8b4e0b-066a-4647-ad1e-cb24c1040c39" />
+
+<img width="864" height="723" alt="11" src="https://github.com/user-attachments/assets/6d70502a-628d-4327-9a73-9786a006cd34" />
+
+<img width="981" height="652" alt="10" src="https://github.com/user-attachments/assets/a79202cc-6ac9-46ec-9c59-e443b12b7e8e" />
+
+<img width="951" height="842" alt="32" src="https://github.com/user-attachments/assets/8f0db59c-b528-4a42-812e-06f0cb1d1088" />
+
+
+<img width="981" height="652" alt="10" src="https://github.com/user-attachments/assets/5e6b942c-6e46-43a4-9a80-add075f36ba2" />
 <p align="center">
   ⭐ If you found this project useful, consider giving it a star.
 </p>
