@@ -227,33 +227,6 @@ ticketer.py -nthash <KRBTGT_HASH> \
 
 ---
 
-## 📂 Repository Structure
-
-```text
-├── README.md
-├── report/
-│   └── AD_Attack_Chain_Report.docx
-├── screenshots/
-├── resources/
-└── tools/
-```
-
----
-
-## 📸 Recommended Screenshots
-
-Add screenshots for:
-
-- Nmap Scan Results
-- AS-REP Hash Extraction
-- Password Cracking
-- PSExec SYSTEM Shell
-- DCSync Output
-- Golden Ticket Creation
-- BloodHound Graphs
-
----
-
 ## ⚠️ Disclaimer
 
 This project was conducted in a fully isolated virtual lab environment for educational and defensive security research purposes only.
