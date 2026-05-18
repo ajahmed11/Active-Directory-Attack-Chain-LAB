@@ -6,7 +6,7 @@
 
 <p align="center">
   Academic Security Research Project <br>
-  UWE Bristol × The British College
+  UWE Bristol | The British College
 </p>
 
 <p align="center">
@@ -267,10 +267,8 @@ Unauthorized testing against systems without permission is illegal and unethical
 ### Ajaj Ahmed
 
 BSc Cyber Security & Digital Forensics  
-UWE Bristol × The British College  
+UWE Bristol | The British College  
 Kathmandu, Nepal
-
-
 
 🔐 SOC Analyst Learner | Active Directory Security | Threat Detection | Red Team Labs
 
